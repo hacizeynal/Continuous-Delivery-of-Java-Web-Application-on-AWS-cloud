@@ -6,14 +6,14 @@ We will build our Java Web Application on AWS Cloud in this project ,this projec
 
 We will use following services in order to deliver project
 
-    * AWS CodeCommit
-    * AWS CodeBuild
-    * AWS Deploy
-    * AWS CodeArtifact
-    * AWS Beanstalk
-    * AWS S3
-    * AWS RDS
-    * AWS CodeArtifact
-    * SonarCloud
-    * Selenium 
-    * Slack
+* AWS CodeCommit
+* AWS CodeBuild
+* AWS Deploy
+* AWS CodeArtifact
+* AWS Beanstalk
+* AWS S3
+* AWS RDS
+* AWS CodeArtifact
+* SonarCloud
+* Selenium 
+* Slack
